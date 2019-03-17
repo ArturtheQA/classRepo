@@ -42,7 +42,7 @@ def adress_Verify():
 adress_Verify()
 
 def street_validation(street,town,state,zip):
-        is_street_valid = street is not None adn len(str(street).strip())
+        is_street_valid = street is not None and len(str(street).strip())
         if not is_street_valid:
             return False
         return True
