@@ -24,7 +24,7 @@ def minimum(values):
 
 
 def factorial(number):
-    #This class will do factorial for a number for example factorial of 3 = 3*2*1=6, 4 = 4*3*2*1=22
+    #This class will do factorial for a number for example factorial of 3 = 3*2*1=6, 4 = 4*3*2*1=22 !  
     number=number*number/number
     
     factorialsummary=1
